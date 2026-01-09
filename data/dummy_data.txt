@@ -1,0 +1,3 @@
+Full Name: Qasim
+Professional Summary: I am a senior genAI Engineer.
+Skills: Python, Prompt Engineering.
