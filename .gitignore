@@ -1,0 +1,37 @@
+# =========================
+
+# Virtual Environment
+
+# =========================
+
+.venv/
+**pycache**/
+\*.pyc
+
+# =========================
+
+# Environment Variables / Secrets
+
+# =========================
+
+.env
+
+# =========================
+
+# Local Development / Tooling
+
+# =========================
+
+.uv/
+uv.lock
+chroma_db/
+
+# =========================
+
+# Project-specific files to ignore
+
+# =========================
+
+deployment.md
+Instructions.md
+pyproject.toml
