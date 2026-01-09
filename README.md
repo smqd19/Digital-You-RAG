@@ -1,4 +1,4 @@
-# Digital Twin - RAG Evolution
+# Digital You - RAG Evolution
 
 Earlier we utilized "Context Stuffing" to create the Digital You. This project evolves that concept into a **Retrieval Augmented Generation (RAG)** system for better scalability and efficiency.
 
